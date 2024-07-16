@@ -63,6 +63,3 @@ This project provides a basic introduction to using ARIMA for time series foreca
 
 Your Name - [fiqgant](https://github.com/fiqgant)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
