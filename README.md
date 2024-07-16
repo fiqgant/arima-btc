@@ -61,5 +61,5 @@ This project provides a basic introduction to using ARIMA for time series foreca
 
 ## Author
 
-Your Name - [fiqgant](https://github.com/fiqgant)
+fiq - [fiqgant](https://github.com/fiqgant)
 
